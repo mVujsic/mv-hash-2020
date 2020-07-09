@@ -42,4 +42,4 @@ plt.show()
 
 ```
 
-![diagram](plot.png)
+     ![diagram](plot.png)
